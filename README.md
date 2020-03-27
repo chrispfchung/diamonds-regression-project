@@ -15,8 +15,8 @@
 ### Hypothesis Test 1 - Do people pay extra for a little more Carat? Carat Weight vs. Price
 **Our Curiosity**: We have heard that there is a significant increase in price when the carat hits 2. Are people spending much more to hit the 2 carat breakpoint? We split up the diamonds by carat right before 2 carat (1.9-1.999) and compared it to the average prices of 2-2.1 carat diamonds.<br>
 
-**Null Hypothesis** : There is no significant difference between the price of diamonds of weights 1.9-2 and weights 2-2.1.<br>
-**Alternate Hypothesis** : There is a significant difference between the price of diamonds of weights 1.9-2 and weights 2-2.1.<br>
+**Null Hypothesis** : There is no significant difference between the price of diamonds of weights 1.9-1.999 and weights 2-2.1.<br>
+**Alternate Hypothesis** : There is a significant difference between the price of diamonds of weights 1.9-1.999 and weights 2-2.1.<br>
 *Alpha value* = 0.05
 
 P-value is less than our alpha value of 0.05, therefore:
