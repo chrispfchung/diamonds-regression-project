@@ -1,4 +1,4 @@
-# diamonds-regression-project
+# Predicting Diamond Prices with Multiple Linear Regression
 
 ## In this project we predict the price of diamonds using a dataset containing 54,000 data points. Data includes diamond price and the following 9 features:
 - Carat
